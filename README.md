@@ -1,5 +1,9 @@
 # Devops Release Pipeline - Tronic Construction Software
 
+## Tronic
+Detta är ett fiktivt men realistikt företag baserat på typiska system inom byggbranchen.
+---
+
 ## Sammanfattning
 
 Tronic Construction Software utvecklar digitala lösningar för byggbranchen, där systemen används direkt ute på byggarbetsplatser. Det gör att stabilitet och tillgänglighet är väldigt viktigt 
